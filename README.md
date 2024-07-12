@@ -1,6 +1,6 @@
 ## Hi there, I'm Bruna 👋
 
-- 🎞️ I'm a filmmaker based in São Paulo, Brasil. Check out my <a href="https://brunaclementinofon.wixsite.com/portfolio">portfolio</a> to take a look at my most recent film projects!
+- 🎞️ I'm a filmmaker based in São Paulo, Brasil. Check out my <a href="https://brunaclementinofon.wixsite.com/portfolio" target="_blank">portfolio</a> to take a look at my most recent film projects!
 - 🌱 I’m currently learning **web fullstack development**. I've only just started but I'm excited for what's to come!
 - 👩‍💻 So far, I've learned about HTML, CSS and JavaScript.
 
