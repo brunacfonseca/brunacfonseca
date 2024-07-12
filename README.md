@@ -5,7 +5,7 @@
 - 👩‍💻 So far, I've learned about HTML, CSS and JavaScript.
 
 
-  #### Languages and Tools:
+#### Languages and Tools:
 <div>  
   <img height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
